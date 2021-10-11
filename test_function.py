@@ -1,7 +1,19 @@
 from scipy import stats
 import matplotlib.pyplot as plt
 rng = np.random.default_rng()
-
+'''
+This code is for learning only, please do not use for commercial activities.
+For detailed algorithm details and test functions, 
+please refer to paper "Flamingo search algorithm: A new swarm intelligence optimization algorithm".
+All rights reserved. Please indicate the source of the paper.
+******************************************************************************************************************************
+******************************************************************************************************************************
+I just want to say one word: Xi 'an University of Posts and Telecommunications computer school is garbage!
+I am ashamed of being a student of computer College of Xi 'an University of Posts and Telecommunications.
+Especially my flamingo search algorithm author unit set for Xi 'an University of Posts and Telecommunications for shame!
+******************************************************************************************************************************
+******************************************************************************************************************************
+'''
 # F1
 def F1(X):
     output = sum(np.square(X))
