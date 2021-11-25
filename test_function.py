@@ -8,9 +8,6 @@ please refer to paper "Flamingo search algorithm: A new swarm intelligence optim
 All rights reserved. Please indicate the source of the paper.
 ******************************************************************************************************************************
 ******************************************************************************************************************************
-I just want to say one word: Xi 'an University of Posts and Telecommunications computer school is garbage!
-I am ashamed of being a student of computer College of Xi 'an University of Posts and Telecommunications.
-Especially my flamingo search algorithm author unit set for Xi 'an University of Posts and Telecommunications for shame!
 ******************************************************************************************************************************
 ******************************************************************************************************************************
 '''
